@@ -17,7 +17,7 @@ const Hero = () => {
             </h1>
           
           <div className="hero-cta">
-            <a href="#apps" className="btn btn-primary">View My Work</a>
+            <a href="#projects" className="btn btn-primary">View My Work</a>
             <a href="#contact" className="btn btn-secondary">Get in Touch</a>
           </div>
         </div>
