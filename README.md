@@ -1,16 +1,44 @@
-# React + Vite
+### Hi there, I'm Minel 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Software Engineer** based in Bursa, Turkey.  
+I specialize in building scalable backend systems and delightful iOS experiences.
 
-Currently, two official plugins are available:
+- 🔭 I’m currently working on **high-concurrency microservices & distributed systems.**
+- 🌱 I’m currently learning **Advanced System Design patterns.**
+- 📱 I have **2 published iOS Apps** on the App Store.
+- 💬 Ask me about **Java Spring Boot, Python FastAPI, and AWS.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+### 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🚀 Published Apps
+
+| <a href="https://apps.apple.com/tr/app/id6754793092">Vault: Asset Tracker</a> | <a href="https://apps.apple.com/tr/app/id6748993709">Currency Converter</a> |
+| :---: | :---: |
+| 💰 Savings Management System | 💱 Real-time FX Platform |
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/minelsaygisever" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:minelsaygisever@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
