@@ -1,12 +1,12 @@
 ### Hi there, I'm Minel 👋
 
-**Software Engineer** focused on building scalable, resilient, and high-performance distributed systems.
+**Software Engineer** specializing in scalable, resilient, and high-performance distributed systems.
 
-- 🌐 Check out my: **[Interactive Resume](https://www.minelsaygisever.com)**
-- I’m architecting **high-concurrency microservices on AWS.**
-- My core stack is **Java Spring Boot, Python FastAPI.**
-- I’m currently deepening my knowledge in **Advanced System Design.**
-- As a side hustle, I ship **end-to-end iOS Apps** to the App Store.
+- **Portfolio:** [Personal Website](https://www.minelsaygisever.com)
+- **Architecting** high-concurrency microservices on AWS.
+- **Tech Stack:** Java Spring Boot & Python FastAPI.
+- **Exploring:** Advanced System Design patterns.
+- **Indie Dev:** Shipping native iOS Apps to the App Store.
 
 ---
 
@@ -36,12 +36,14 @@
 
 <div align="left">
   <a href="https://www.minelsaygisever.com" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Website-4D4D4D?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit-Personal_Website-e85d04?style=for-the-badge" />
   </a>
+  
   <a href="https://www.linkedin.com/in/minelsaygisever" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge" />
   </a>
+  
   <a href="mailto:minelsaygisever@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_me_an-Email-2ea44f?style=for-the-badge" />
   </a>
 </div>
