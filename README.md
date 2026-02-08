@@ -27,7 +27,7 @@
 
 ### Published Apps
 
-| <a href="https://apps.apple.com/tr/app/id6754793092">Vault: Asset Tracker</a> | <a href="https://apps.apple.com/tr/app/id6748993709">Currency Converter</a> |
+| <a href="https://apps.apple.com/tr/app/id6754793092" target="_blank">Vault</a> | <a href="https://apps.apple.com/tr/app/id6748993709" target="_blank">Currency Tracker & Converter</a> |
 | :---: | :---: |
 | Savings Management System | Real-time FX Platform |
 
