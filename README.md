@@ -2,6 +2,7 @@
 
 **Software Engineer** focused on building scalable, resilient, and high-performance distributed systems.
 
+- 🌐 Check out my: **[Interactive Resume](https://www.minelsaygisever.com)**
 - I’m architecting **high-concurrency microservices on AWS.**
 - My core stack is **Java Spring Boot, Python FastAPI.**
 - I’m currently deepening my knowledge in **Advanced System Design.**
@@ -34,6 +35,9 @@
 ---
 
 <div align="left">
+  <a href="https://www.minelsaygisever.com" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-4D4D4D?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/minelsaygisever" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
