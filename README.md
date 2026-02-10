@@ -2,7 +2,7 @@
 
 **Software Engineer** specializing in scalable, resilient, and high-performance distributed systems.
 
-- **Portfolio:** [Personal Website](https://www.minelsaygisever.com)
+- [Personal Website](https://www.minelsaygisever.com)
 - **Architecting** high-concurrency microservices on AWS.
 - **Tech Stack:** Java Spring Boot & Python FastAPI.
 - **Exploring:** Advanced System Design patterns.
@@ -28,7 +28,7 @@
 
 ### Published Apps
 
-| <a href="https://apps.apple.com/tr/app/id6754793092" target="_blank">Vault</a> | <a href="https://apps.apple.com/tr/app/id6748993709" target="_blank">Currency Tracker & Converter</a> |
+| <a href="https://apps.apple.com/tr/app/id6754793092" target="_blank">Vaulty</a> | <a href="https://apps.apple.com/tr/app/id6748993709" target="_blank">Currency Tracker & Converter</a> |
 | :---: | :---: |
 | Savings Management System | Real-time FX Platform |
 
