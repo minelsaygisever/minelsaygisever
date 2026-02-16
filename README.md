@@ -28,9 +28,11 @@
 
 ### Published Apps
 
-| <a href="https://apps.apple.com/tr/app/id6754793092" target="_blank">Vaulty</a> | <a href="https://apps.apple.com/tr/app/id6748993709" target="_blank">Currency Tracker & Converter</a> |
-| :---: | :---: |
-| Savings Management System | Real-time FX Platform |
+**[Currency Tracker & Converter](https://apps.apple.com/tr/app/id6748993709)** 
+*An all-in-one FX platform and multi-currency savings tracker featuring 160+ currencies, real-time charts, and offline mode.*
+
+* **System Architecture:** Engineered with a **Python FastAPI** backend, containerized with **Docker**, and deployed on **AWS** for high-concurrency performance.
+* **iOS Native:** Deep system integration with **Apple Watch** support and **Home Screen Widgets**.
 
 ---
 
