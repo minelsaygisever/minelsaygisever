@@ -29,6 +29,7 @@
 ### Published Apps
 
 **[Currency Tracker & Converter](https://apps.apple.com/tr/app/id6748993709)** 
+
 *An all-in-one FX platform and multi-currency savings tracker featuring 160+ currencies, real-time charts, and offline mode.*
 
 * **System Architecture:** Engineered with a **Python FastAPI** backend, containerized with **Docker**, and deployed on **AWS** for high-concurrency performance.
