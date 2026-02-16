@@ -66,16 +66,6 @@ export const githubProjects = [
 export const mobileApps = [
   {
     id: 1,
-    title: "Vaulty",
-    category: "Finance",
-    description: "Architected a full-stack savings management system, leveraging SwiftUI and Python (FastAPI) on AWS to track multi-asset portfolios (currencies, gold) with historical cost-basis analysis and real-time profit/loss metrics.",
-    tech: ["SwiftUI", "Python", "FastAPI", "AWS"],
-    link: "https://apps.apple.com/tr/app/id6754793092",
-    icon: "/vault-icon.png", 
-    color: "rgba(255, 215, 0, 0.1)"
-  },
-  {
-    id: 2,
     title: "Currency Tracker & Converter",
     category: "Utilities",
     description: "Deployed a full-stack currency platform as a solo developer, featuring a SwiftUI iOS/Apple Watch app with widgets and a high-performance Python (FastAPI) backend on AWS, supporting real-time conversions, historical charts, and a savings module.",
